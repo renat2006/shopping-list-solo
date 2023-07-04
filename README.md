@@ -2,5 +2,5 @@
 # shopping-list-solo
 - Pet project
 - Started to learn JS
-- Link: [https://renats-conversion-app.netlify.app](https://renats-shopping-list.netlify.app/)https://renats-shopping-list.netlify.app/
+- Link: [https://renats-conversion-app.netlify.app](https://renats-shopping-list.netlify.app/)
 
